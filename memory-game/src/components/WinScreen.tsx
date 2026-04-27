@@ -9,7 +9,7 @@ const styles = {
         justifyContent: "center",
         zIndex: 100,
     },
-    winCard: {
+    winCard: { 
         background: "linear-gradient(145deg, #1e1e3a, #2a2860)",
         border: "1px solid rgba(255,255,255, 0.15)",
         borderRadius: 24,

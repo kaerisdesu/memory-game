@@ -1,9 +1,9 @@
-import WinScreen from "./components/WinScreen";
+import GameBoard from "./components/GameBoard";
 
 function App() {
     return(
         <>
-        <WinScreen moves={30} seconds={362} onRestart={console.log("restart")}></WinScreen>
+        <GameBoard></GameBoard>
         </>
     );
 }
